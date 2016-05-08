@@ -1,7 +1,7 @@
 
-1. [问题记录1](https://github.com/fduse/lab2/wiki/library-requirement)  
+- [问题记录1](https://github.com/fduse/lab2/wiki/library-requirement)  
 	解决办法：与用户约好时间见面讨论，获取用户反馈[Feedback #1](https://github.com/fduse/lab2/wiki/Feedback-%231)
-2. 进一步分析讨论，得到[问题记录2](https://github.com/fduse/lab2/wiki/%E9%92%88%E5%AF%B9feedback1%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90)  
+- 进一步分析讨论，得到[问题记录2](https://github.com/fduse/lab2/wiki/%E9%92%88%E5%AF%B9feedback1%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90)  
 	解觉办法：通过邮件向用户询问
 ```
 助教你好：
@@ -43,5 +43,5 @@
 3.1 总借书量
 ```
 
-3. 用邮箱并未联系到用户  
+- 用邮箱并未联系到用户  
 解决办法：用其他方式联系（微信）
