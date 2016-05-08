@@ -123,12 +123,12 @@
 ## 行为模型
 - 图书管理系统状态图
 
-![图书系统状态图](https://github.com/fduse/lab2/blob/master/stateChart/system.png)
+![图书系统状态图](https://github.com/fduse/lab2/blob/master/%E5%9B%BE%E8%A1%A8/state_chart/system.png)
 
 - 图书状态图
 
-![图书状态图](https://github.com/fduse/lab2/blob/master/stateChart/book.png)
+![图书状态图](https://github.com/fduse/lab2/blob/master/%E5%9B%BE%E8%A1%A8/state_chart/book.png)
 
 - 读者状态图
 
-![读者状态图](https://github.com/fduse/lab2/blob/master/stateChart/reader.png)
+![读者状态图](https://github.com/fduse/lab2/blob/master/%E5%9B%BE%E8%A1%A8/state_chart/reader.png)
