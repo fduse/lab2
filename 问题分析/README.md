@@ -1,8 +1,8 @@
 
 - [问题记录1](https://github.com/fduse/lab2/wiki/library-requirement)  
 	解决办法：与用户约好时间见面讨论，获取用户反馈[访谈反馈](../沟通交流记录/访谈反馈.md)
-- 进一步分析讨论，得到[问题记录2](https://github.com/fduse/lab2/wiki/%E9%92%88%E5%AF%B9feedback1%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90)  
-	解觉办法：通过邮件向用户询问
+- 进一步分析讨论，得到[问题记录2](./analysis.md)  
+	解决办法：通过邮件向用户询问
 ```
 助教你好：
 
